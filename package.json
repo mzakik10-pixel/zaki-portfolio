@@ -1,0 +1,19 @@
+{
+  "name": "muhammad-zaki-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of Muhammad Zaki Kurniawan - Apple Developer Academy Indonesia Candidate",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "apple-developer-academy",
+    "machine-learning",
+    "ui-ux",
+    "intelligent-systems",
+    "binus"
+  ],
+  "author": "Muhammad Zaki Kurniawan",
+  "license": "MIT"
+}
